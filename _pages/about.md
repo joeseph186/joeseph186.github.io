@@ -2,17 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://github.com/alshedivat/al-folio'>EIT joint master program with TU Berlin & ELTE </a> .
 
 profile:
   align: right
   image: joe.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
-    <p>Associate Professor</p>
-    <p>Stanford, CA 94305–2004</p>
-    <p>450 Jane Stanford Way</p>
-
+    <p>Straße des 17. Juni 135</p>
+    <p>10623 Berlin, Germany</p>
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
